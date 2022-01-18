@@ -11,7 +11,7 @@ Assistant Professor Yuhang Zhao
 ### TEACHING ASSISTANTS  
 Brandon Cegelski, Ru Wang
 
-<img src="figures/brandon.jpg" width="120" height="120" /><img src="figures/ru.jpg" width="120" height="120" />
+<img src="figures/brandon.jpg" width="120" height="120" /><img src="figures/ru.JPG" width="120" height="120" />
 
 ### PEER MENTORS  
 Ilkyu Ju, Nick Winans

@@ -21,7 +21,7 @@ Preferred instructor contact is via email.
 Brandon Cegelski <br />
 Ru Wang <br />
 
-<img src="figures/brandon.jpg" width="200" /><img src="figures/salman.png" width="200" height="200" />
+<img src="figures/brandon.jpg" width="200" /><img src="figures/ru.JPG" width="200" height="200" />
 
 #### TA OFFICE HOURS  
 See the table for instructional team office hours. All office hours will be held via Microsoft Teams.
