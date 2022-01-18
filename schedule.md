@@ -35,7 +35,7 @@ nav_order: 2
       <td><em>Thursdays</em></td>
       <td><em>Friday</em></td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>January 25<br />  
         <span class="fs-3"><a target="_blank" class="btn" href="">Course Introduction</a></span><br />
         <a target="_blank" href="https://uwmadison.zoom.us/j/91256253366?pwd=enRKSW1yL2JVMnJQZkU5clhVWlAyUT09"><strong>Stream</strong></a> <a target="_blank" href="h"><strong>Kaltura</strong></a> <em>No Notes</em>
@@ -120,8 +120,7 @@ nav_order: 2
       <td>March 15<br />
         Spring recess, no class
       </td>
-      <td>
-      </td>
+      <td></td>
       <td>March 17<br />
         Spring recess, no class
       </td>
@@ -129,8 +128,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React &beta;</a></span> 
       </td>
     </tr>
-    <tr> -->
-    <!-- <tr>
+    <tr>
       <td>March 22<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 1</a></span>
       </td>
@@ -209,7 +207,7 @@ nav_order: 2
       <td>May 6<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">Dialogflow &beta;</a></span>
       </td>    
-    </tr> -->
+    </tr>
   </tbody>
 </table>
 
