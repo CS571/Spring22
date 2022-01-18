@@ -28,7 +28,7 @@ nav_order: 2
       <th><strong>Assignment Due</strong></th>
     </tr>
   </thead>
-  <tbody>
+  <!-- <tbody>
     <tr>
       <td><em>Tuesdays</em></td>
       <td><em>Wednesdays</em></td>
@@ -101,7 +101,6 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Interaction Design</a></span>
       </td>
       <td>March 4<br />
-        <!-- <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React 1 &beta;</a></span> -->
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">React &alpha;</a></span>
       </td>
     </tr>
@@ -120,19 +119,14 @@ nav_order: 2
     <tr>
       <td>March 15<br />
         Spring recess, no class
-        <!-- <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 1</a></span> -->
       </td>
       <td>
       </td>
       <td>March 17<br />
         Spring recess, no class
-        <!-- <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React &beta;</a></span>  -->
-        <!-- <strong>Midterm alternative (7:15-9:15pm)</strong> -->
       </td>
       <td>March 18<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React &beta;</a></span> 
-        <!-- <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React &beta;</a></span>  -->
-        <!-- <strong>Midterm alternative (7:15-9:15pm)</strong> -->
       </td>
     </tr>
     <tr>
@@ -144,7 +138,6 @@ nav_order: 2
       </td>
       <td>March 24<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span> <br />
-        <!-- <strong>Midterm (7:15-9:15pm)</strong> -->
       </td>
       <td>
       </td>
@@ -152,7 +145,6 @@ nav_order: 2
     <tr>
       <td>March 29<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 3</a></span>
-        <!-- <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Mobile Design</a></span> -->
       </td>
       <td></td>
       <td>March 31<br />
@@ -165,7 +157,6 @@ nav_order: 2
     <tr>
       <td>April 5<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Prototyping</a></span>
-        <!-- <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 3</a></span> -->
       </td>
       <td></td>
       <td>April 7<br />
@@ -177,12 +168,10 @@ nav_order: 2
     <tr>
       <td>April 12<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 1</a></span>
-        <!-- <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">VUI Design</a></span> -->
       </td>
       <td></td>
       <td>April 14<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span>
-        <!-- <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experience Prototyping</a></span> -->
       </td>
       <td>April 15<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React Native &beta;</a></span>
@@ -221,7 +210,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">Dialogflow &beta;</a></span>
       </td>    
     </tr>
-  </tbody>
+  </tbody> -->
 </table>
 
 
