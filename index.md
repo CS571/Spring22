@@ -61,17 +61,17 @@ Students can use the following systems to review and submit assignments, ask que
  <table>
 <tr>
 	<td>
-		<span class="fs-3"><a class="btn" href="https://canvas.wisc.edu/courses/273395">Course Canvas</a></span>
+		<span class="fs-3"><a class="btn" href="https://canvas.wisc.edu/courses/295709">Course Canvas</a></span>
 	</td>
 	<td>
-		<span class="fs-3"><a class="btn" href="https://piazza.com/wisc/fall2021/cs571">Course Piazza Page</a></span>
+		<span class="fs-3"><a class="btn" href="https://piazza.com/class/kyjlh3uxjvznf">Course Piazza Page</a></span>
 	</td>
 	<td>
-		<span class="fs-3"><a class="btn" target="_blank" href="https://teams.microsoft.com/l/team/19%3alPXH5jeZKL7HaSjjo3QDECKCsh7nFv5EUfqqp7sAPA01%40thread.tacv2/conversations?groupId=eb582d1e-43a6-4b82-a17b-7234cfc8ca76&tenantId=2ca68321-0eda-4908-88b2-424a8cb4b0f9">Course Microsoft Teams</a></span>
+		<span class="fs-3"><a class="btn" target="_blank" href="https://teams.microsoft.com/l/team/19%3aBuPse6mU0lJYVGdWAlI5VBxdTP3rWpZa1WwSvZq1SKQ1%40thread.tacv2/conversations?groupId=3d0a2382-8344-465b-88b3-a5933beafedf&tenantId=2ca68321-0eda-4908-88b2-424a8cb4b0f9">Course Microsoft Teams</a></span>
 	</td>
-  <td>
+  <!-- <td>
 		<span class="fs-3"><a class="btn" target="_blank" href="https://classroom.github.com/classrooms/83735513-hci-uwmadison-cs571-f21">GitHub Classroom</a></span>
-	</td>
+	</td> -->
 </tr>
 </table> 
 
