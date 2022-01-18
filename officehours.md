@@ -11,12 +11,12 @@ Assistant Professor Yuhang Zhao
 ### TEACHING ASSISTANTS  
 Brandon Cegelski, Ru Wang
 
-<img src="figures/brandon.jpg" width="120" height="120" /><img src="figures/salman.png" width="120" height="120" /><img src="figures/sujitha.jpg" width="90" height="120" />
+<img src="figures/brandon.jpg" width="120" height="120" /><img src="figures/ru.jpg" width="120" height="120" />
 
 ### PEER MENTORS  
 Ilkyu Ju, Nick Winans
 
-<img src="figures/Ilkyu.jpg" width="120" height="120" /><img src="figures/yuren.jpg" width="89" height="120" />
+<img src="figures/Ilkyu.jpg" width="120" height="120" /><img src="figures/NickWinans.jpg" width="120" height="120" />
 
 ---
 
@@ -26,6 +26,8 @@ The best way to contact the instructional team is contacting them through the co
 ---
 
 ## OFFICE HOURS  
-Instructional team office hours will follow the schedule below between **September 14** and **December 22** and held via Microsoft Teams. For questions regarding assignments, TA and peer-mentor office hours are recommended. For questions regarding grading, TA office hours are recommended. For all other questions, instructor office hours are recommended.
+Instructional team office hours will follow the schedule below between **Jan 25** and **May 6** and held via Microsoft Teams. For questions regarding assignments, TA and peer-mentor office hours are recommended. For questions regarding grading, TA office hours are recommended. For all other questions, instructor office hours are recommended.
 
-<img src="figures/schedule.png" width="800" />
+TBD
+
+<!-- <img src="figures/schedule.png" width="800" /> -->

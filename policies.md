@@ -33,6 +33,8 @@ nav_order: 6
 
 **Late Policy:** Assignments submitted by 11:59 pm on the date of the deadline will receive full marks. For each assignment, 20% of the total grade for that assignment will be removed for each day that the assignment is late. Submissions that are 5+ days late will receive no marks. For each assignment, the submissions made to the GitHub Classroom repository will be pulled at 11:59 pm daily and used for grading. If a submission was made by the deadline, it cannot be updated unless attenuating circumstances. 
 
+**Grace days:** You are given 4 grace days which you can use to give yourself extra time without penalty. You can use it for individual assignments only (not including quizzes). After using up the grace days, late policy will be applied.
+
 **Emergencies and Exceptions:** Inform the instructor immediately of any crisis that preclude you from attending a class or an exam.
 
 **Special Needs:** Students with special needs should inform the instructor immediately via email so that accommodations can be made.
