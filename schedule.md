@@ -219,7 +219,7 @@ nav_order: 2
       </td>
       <td> </td>
       <td></td>
-      <td>May 6<br />
+      <td>May 3<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">Dialogflow &beta;</a></span>
       </td>    
     </tr>
