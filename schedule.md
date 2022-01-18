@@ -28,7 +28,7 @@ nav_order: 2
       <th><strong>Assignment Due</strong></th>
     </tr>
   </thead>
-  <!-- <tbody>
+  <tbody>
     <tr>
       <td><em>Tuesdays</em></td>
       <td><em>Wednesdays</em></td>
@@ -130,7 +130,7 @@ nav_order: 2
       </td>
     </tr>
     <tr>
-     <tr>
+    <!-- <tr>
       <td>March 22<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 1</a></span>
       </td>
@@ -209,8 +209,8 @@ nav_order: 2
       <td>May 6<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">Dialogflow &beta;</a></span>
       </td>    
-    </tr>
-  </tbody> -->
+    </tr> -->
+  </tbody>
 </table>
 
 
