@@ -53,4 +53,4 @@ All student work submitted for exams, quizzes, and assignments will be reviewed 
 
 ### INSTITUTIONAL POLICIES
 
-Students should review the [course syllabus](https://drive.google.com/file/d/1t5o6ux8NHxjBL9q_h1fANeJIbVA59AD-/view?usp=sharing) for institutional policies.
+Students should review the [course syllabus](https://drive.google.com/file/d/1aPHXI2bFPtz9gZOuraFl6Ps60hxllzXC/view?usp=sharing) for institutional policies.
