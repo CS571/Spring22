@@ -114,7 +114,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Heuristic Evaluation</a></span>
       </td>
       <td>March 11<br />
-        Midterm 1
+        <Strong>Midterm 1</Strong>
       </td>
     </tr>
     <tr>
@@ -205,8 +205,7 @@ nav_order: 2
       <td>April 26<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Usability Evaluation</a></span>
       </td>
-      <td>
-      </td>
+      <td></td>
       <td>April 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Designing Agents</a></span>
       </td>
@@ -215,11 +214,10 @@ nav_order: 2
       </td>
     </tr>
     <tr>
-      <td>
-      </td>
-      <td> </td>
       <td></td>
-      <td>May 3<br />
+      <td></td>
+      <td></td>
+      <td>May 6<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">Dialogflow &beta;</a></span>
       </td>    
     </tr>
@@ -227,6 +225,6 @@ nav_order: 2
 </table>
 
 
----
+<!-- --- -->
 
 🎉 🥳 🎊 Congratulations! You made it to the end of the semester!
