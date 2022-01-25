@@ -9,11 +9,11 @@ nav_order: 2
 
 ### Legend
 
-<a class="label label-blue" >Blue</a> / <a class="label label-purple" >Purple</a> buttons link to **build** / **design** lectures
+<a class="label label-blue" >Blue</a> / <a class="label label-purple" >Purple</a> buttons link to **build** / **design** lecture slides
 
 <a class="label label-red" >Red</a> / <a class="label label-yellow">Yellow</a> links to *programming* (&alpha;) / *design* (&beta;) assignments
 
-<a>**Stream**</a> / <a>**Kaltura**</a> links to lecture stream / recorded lectures (posted by 9 pm on lecture day)
+<a>**Recording**</a> links to recorded lectures (posted by 9 pm on lecture day)
 
 <a>**Notes**</a> links to slides that are annotated during lecture
 
@@ -38,12 +38,12 @@ nav_order: 2
     <tr>
       <td>January 25<br />  
         <span class="fs-3"><a target="_blank" class="btn" href="">Course Introduction</a></span><br />
-        <a target="_blank" href="https://uwmadison.zoom.us/j/91256253366?pwd=enRKSW1yL2JVMnJQZkU5clhVWlAyUT09"><strong>Stream</strong></a> <a target="_blank" href="h"><strong>Kaltura</strong></a> <em>No Notes</em>
+        <a target="_blank" href="lectures/01-Course-Introduction.pdf">Recording</a> <em>No Notes</em>
       </td>
       <td></td>
       <td>January 27<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Javascript 1</a></span><br />
-        <a target="_blank" href=""><strong>Kaltura</strong></a> <a target="_blank" href=""><strong>Notes</strong></a>
+        <a target="_blank" href="">Recording</a> <a target="_blank" href="">Notes</a>
       </td>
       <td></td>
     </tr>
@@ -53,7 +53,7 @@ nav_order: 2
       <td></td>
       <td>February 3<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Javascript 2</a></span><br />
-        <a target="_blank" href=""><strong>Stream</strong></a> <a target="_blank" href=""><strong>Kaltura</strong></a> <a target="_blank" >Notes</a>
+        <!-- <a target="_blank" href=""><strong>Stream</strong></a> <a target="_blank" href=""><strong>Kaltura</strong></a> <a target="_blank" >Notes</a> -->
       </td>
       <td></td>
     </tr>
