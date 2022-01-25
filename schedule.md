@@ -37,8 +37,8 @@ nav_order: 2
     </tr>
     <tr>
       <td>January 25<br />  
-        <span class="fs-3"><a target="_blank" class="btn" href="">Course Introduction</a></span><br />
-        <a target="_blank" href="lectures/01-Course-Introduction.pdf">Recording</a> <em>No Notes</em>
+        <span class="fs-3"><a target="_blank" class="btn" href="lectures/01-Course-Introduction.pdf">Course Introduction</a></span><br />
+        <a target="_blank" href="">Recording</a> <em>No Notes</em>
       </td>
       <td></td>
       <td>January 27<br />
