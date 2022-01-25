@@ -38,7 +38,7 @@ nav_order: 2
     <tr>
       <td>January 25<br />  
         <span class="fs-3"><a target="_blank" class="btn" href="lectures/01-Course-Introduction.pdf">Course Introduction</a></span><br />
-        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang%20Zhao-Noland%20168-01_25_22-10%3A51%3A42/1_dcid52g3">Recording</a> <em>No Notes</em>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang%20Zhao-Noland%20168-01_25_22-10%3A51%3A42/1_dcid52g3"><strong>Recording</strong></a> <em>No Notes</em>
       </td>
       <td></td>
       <td>January 27<br />
