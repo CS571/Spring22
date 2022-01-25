@@ -4,7 +4,7 @@ nav_order: 4
 ---
 ## INSTRUCTORS AND TEACHING ASSISTANTS  
 ### INSTRUCTOR TITLE AND NAME  
-Assistant Professor Yuhanng Zhao  
+Assistant Professor Yuhang Zhao  
 Department of Computer Sciences, University of Wisconsin–Madison  
 1210 W Dayton St, Madison, WI 53706-1685 USA  
 **E-mail:** yuhang.zhao@cs.wisc.edu  
