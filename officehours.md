@@ -70,8 +70,8 @@ Instructional team office hours will follow the schedule below between **Jan 25*
 		<tr>
 			<td>&nbsp;</td>
 			<td>5:00-6:30 PM<br />Ilkyu <span class="fs-3"> <a class="btn" href="https://teams.microsoft.com/l/meetup-join/19%3aBuPse6mU0lJYVGdWAlI5VBxdTP3rWpZa1WwSvZq1SKQ1%40thread.tacv2/1643038814233?context=%7b%22Tid%22%3a%222ca68321-0eda-4908-88b2-424a8cb4b0f9%22%2c%22Oid%22%3a%2253597760-419d-477d-bee5-a87485677969%22%7d" target="_blank">Join on Teams</a> </span></td>
-			<td>5:00-7:00 PM<br><a target="_blank" href="https://docs.google.com/spreadsheets/d/1HDJp5ZArUfAF21K1hwy-3V8dLuhbjv03GrGwyxkL4wI/edit?usp=sharing">Discussion</a><span class="label label-purple">CS 1263</span></td>
-			<td>5:00-7:00 PM<br><a target="_blank" href="https://docs.google.com/spreadsheets/d/1HDJp5ZArUfAF21K1hwy-3V8dLuhbjv03GrGwyxkL4wI/edit?usp=sharing">Discussion</a><span class="label label-purple">CS 1263</span></td>
+			<td>5:00-7:00 PM<br><a target="_blank" href="https://docs.google.com/spreadsheets/d/1HDJp5ZArUfAF21K1hwy-3V8dLuhbjv03GrGwyxkL4wI/edit?usp=sharing">Discussion</a><span class="label label-green">CS 1263</span></td>
+			<td>5:00-7:00 PM<br><a target="_blank" href="https://docs.google.com/spreadsheets/d/1HDJp5ZArUfAF21K1hwy-3V8dLuhbjv03GrGwyxkL4wI/edit?usp=sharing">Discussion</a><span class="label label-green">CS 1263</span></td>
 			<td>4:00-5:30 PM<br />Brandon <span class="fs-3"> <a class="btn" href="https://teams.microsoft.com/l/meetup-join/19%3aBuPse6mU0lJYVGdWAlI5VBxdTP3rWpZa1WwSvZq1SKQ1%40thread.tacv2/1643072109392?context=%7b%22Tid%22%3a%222ca68321-0eda-4908-88b2-424a8cb4b0f9%22%2c%22Oid%22%3a%221b5ef65f-0350-4aa6-a138-6eb025de5f30%22%7d" target="_blank">Join on Teams</a> </span></td>
 		</tr>
 	</tbody>
