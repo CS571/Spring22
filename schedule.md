@@ -42,7 +42,7 @@ nav_order: 2
       </td>
       <td></td>
       <td>January 27<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Javascript 1</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/01-Build-Javascript-1.pdf">Javascript 1</a></span><br />
         <a target="_blank" href="">Recording</a> <a target="_blank" href="">Notes</a>
       </td>
       <td></td>
