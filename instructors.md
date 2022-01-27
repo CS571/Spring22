@@ -12,7 +12,7 @@ Department of Computer Sciences, University of Wisconsin–Madison
 <img src="figures/Yuhang_Zhao.jpg" width="200" />
 
 #### INSTRUCTOR AVAILABILITY  
-During scheduled office hours (Thursday 4:30-5:30 pm) or by appointment.
+During scheduled office hours (Tuesday 4:00-5:00 pm) or by appointment.
 
 #### INSTRUCTOR EMAIL/PREFERRED CONTACT  
 Preferred instructor contact is via email. 
