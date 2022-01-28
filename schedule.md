@@ -38,12 +38,12 @@ nav_order: 2
     <tr>
       <td>January 25<br />  
         <span class="fs-3"><a target="_blank" class="btn" href="lectures/01-Course-Introduction.pdf">Course Introduction</a></span><br />
-        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang%20Zhao-Noland%20168-01_25_22-10%3A51%3A42/1_dcid52g3"><strong>Recording</strong></a> <em>No Notes</em>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang%20Zhao-Noland%20168-01_25_22-10%3A51%3A42/1_dcid52g3"><strong>Recording</strong></a>
       </td>
       <td></td>
       <td>January 27<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/01-Build-Javascript-1.pdf">Javascript 1</a></span><br />
-        <a target="_blank" href="">Recording</a> <a target="_blank" href="">Notes</a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-01+27+22-10A57A34/1_ilsk76g6"><strong>Recording</strong></a>
       </td>
       <td></td>
     </tr>
