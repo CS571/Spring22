@@ -64,7 +64,7 @@ Instructional team office hours will follow the schedule below between **Jan 25*
 			<td>&nbsp;</td>
 			<td>4:00-5:00 PM<br />Professor Zhao <span class="fs-3"> <a class="btn" href="https://teams.microsoft.com/l/meetup-join/19%3aBuPse6mU0lJYVGdWAlI5VBxdTP3rWpZa1WwSvZq1SKQ1%40thread.tacv2/1643080168121?context=%7b%22Tid%22%3a%222ca68321-0eda-4908-88b2-424a8cb4b0f9%22%2c%22Oid%22%3a%22b7f81268-9cad-49d8-876e-ba33247e3d77%22%7d" target="_blank">Join on Teams</a> </span></td>
             <td>&nbsp;</td>
-			<td>3:00-4:30 PM<br />Ru <span class="fs-3"> <a class="btn" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTU0MTFmZWYtYTUwOC00NDE0LWI3YWQtOTYwMGQyY2UyNGI4%40thread.v2/0?context=%7b%22Tid%22%3a%222ca68321-0eda-4908-88b2-424a8cb4b0f9%22%2c%22Oid%22%3a%22293a932a-f3db-4228-b1ff-0dd1b2e1003c%22%7d" target="_blank">Join on Teams</a> </span></td>
+			<td>2:30-4:00 PM<br />Ru <span class="fs-3"> <a class="btn" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTU0MTFmZWYtYTUwOC00NDE0LWI3YWQtOTYwMGQyY2UyNGI4%40thread.v2/0?context=%7b%22Tid%22%3a%222ca68321-0eda-4908-88b2-424a8cb4b0f9%22%2c%22Oid%22%3a%22293a932a-f3db-4228-b1ff-0dd1b2e1003c%22%7d" target="_blank">Join on Teams</a> </span></td>
 			<td>2:30-4:00 PM<br />Ilkyu <span class="fs-3"> <a class="btn" href="https://teams.microsoft.com/l/meetup-join/19%3aBuPse6mU0lJYVGdWAlI5VBxdTP3rWpZa1WwSvZq1SKQ1%40thread.tacv2/1643038913509?context=%7b%22Tid%22%3a%222ca68321-0eda-4908-88b2-424a8cb4b0f9%22%2c%22Oid%22%3a%2253597760-419d-477d-bee5-a87485677969%22%7d" target="_blank">Join on Teams</a> </span></td>
 		</tr>
 		<tr>
