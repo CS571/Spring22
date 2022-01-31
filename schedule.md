@@ -66,7 +66,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Visual Design</a></span>
       </td>
       <td>February 11<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">Javascript &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/295709/assignments/1501347">Javascript &alpha;</a></span>
       </td>
     </tr>
     <tr>
