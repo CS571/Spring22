@@ -52,7 +52,7 @@ nav_order: 2
       <em>No class</em></td>
       <td></td>
       <td>February 3<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Javascript 2</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/02-Build-Javascript-2.pdf">Javascript 2</a></span><br />
         <!-- <a target="_blank" href=""><strong>Stream</strong></a> <a target="_blank" href=""><strong>Kaltura</strong></a> <a target="_blank" >Notes</a> -->
       </td>
       <td></td>
