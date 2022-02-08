@@ -59,7 +59,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>February 8<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Design Thinking</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Design-Thinking.pdf">Design Thinking</a></span>
       </td>
       <td></td>
       <td>February 10<br />
@@ -78,7 +78,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React 2</a></span>
       </td>
       <td>February 18<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">Javascript &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/295709/assignments/1501492">Javascript &beta;</a></span>
       </td>
     </tr>
     <tr>
