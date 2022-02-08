@@ -59,7 +59,8 @@ nav_order: 2
     </tr>
     <tr>
       <td>February 8<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Design-Thinking.pdf">Design Thinking</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Design-Thinking.pdf">Design Thinking</a></span><br />
+        <a target="_blank" href="">Recording</a>
       </td>
       <td></td>
       <td>February 10<br />
