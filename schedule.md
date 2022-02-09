@@ -60,7 +60,7 @@ nav_order: 2
     <tr>
       <td>February 8<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Design-Thinking.pdf">Design Thinking</a></span><br />
-        <a target="_blank" href="">Recording</a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-02+08+22-10A55A19/1_sepmcn8w"><strong>Recording</strong></a>
       </td>
       <td></td>
       <td>February 10<br />
