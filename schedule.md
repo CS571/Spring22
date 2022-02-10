@@ -15,6 +15,8 @@ nav_order: 2
 
 <a>**Recording**</a> links to recorded lectures (posted by 9 pm on lecture day)
 
+<a>**Quiz**</a> links to Canvas quizzes (posted before lecture)
+
 <a>**Notes**</a> links to slides that are annotated during lecture
 
 ### Schedule
@@ -64,8 +66,13 @@ nav_order: 2
       </td>
       <td></td>
       <td>February 10<br />
+<<<<<<< HEAD
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Visual-Design.pdf">Visual Design</a></span>
         <a target="_blank" href="">Recording</a>
+=======
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Visual Design</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/348653"><strong>Quiz</strong></a>
+>>>>>>> 51178f65c9c091a07e3d4441cc2e0cf0b3287a0a
       </td>
       <td>February 11<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/295709/assignments/1501347">Javascript &alpha;</a></span>
