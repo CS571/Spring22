@@ -15,6 +15,8 @@ nav_order: 2
 
 <a>**Recording**</a> links to recorded lectures (posted by 9 pm on lecture day)
 
+<a>**Quiz**</a> links to Canvas quizzes (posted before lecture)
+
 <a>**Notes**</a> links to slides that are annotated during lecture
 
 ### Schedule
