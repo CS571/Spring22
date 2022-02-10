@@ -65,10 +65,10 @@ nav_order: 2
       <td></td>
       <td>February 10<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Visual Design</a></span>
+        <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/348653"><strong>Quiz</strong></a>
       </td>
       <td>February 11<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/295709/assignments/1501347">Javascript &alpha;</a></span>
-        <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/348653"><strong>Quiz</strong></a>
       </td>
     </tr>
     <tr>
