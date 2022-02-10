@@ -64,7 +64,7 @@ nav_order: 2
       </td>
       <td></td>
       <td>February 10<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Visual Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Visual Design</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/348653"><strong>Quiz</strong></a>
       </td>
       <td>February 11<br />
