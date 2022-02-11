@@ -68,7 +68,7 @@ nav_order: 2
       <td>February 10<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/03-Design-Visual-Design.pdf">Visual Design</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/348653"><strong>Quiz</strong></a>
-        <a target="_blank" href="">Recording</a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-02+10+22-11A00A34/1_gm7rg1t1"><strong>Recording</strong></a>
       </td>
       <td>February 11<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/295709/assignments/1501347">Javascript &alpha;</a></span>
