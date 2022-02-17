@@ -83,6 +83,7 @@ nav_order: 2
       <td></td>
       <td>February 17<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/04-Build-React-2.pdf">React 2</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/349339"><strong>Quiz</strong></a>
       </td>
       <td>February 18<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/295709/assignments/1501492">Javascript &beta;</a></span>
