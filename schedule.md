@@ -224,7 +224,7 @@ nav_order: 2
 
 
 ### Midterm 1
-The first midterm exam will be held remotely <strong>Friday, March 11, 2022 from 7:15 PM until 8:45 PM</strong> via <strong>Zoom and Canvas</strong>. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
+The first midterm exam will be held remotely on <strong>Friday, March 11, 2022 from 7:15 PM until 8:45 PM</strong> via <strong>Zoom and Canvas</strong>. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
 
 <ul>
 <li>Details about the exam will be posted soon.</li>
