@@ -94,7 +94,7 @@ nav_order: 2
       <td>February 22<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/05-Build-React-3.pdf">React 3</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/349812"><strong>Quiz</strong></a>
-        <a target="_blank" href=""><strong>Recording</strong></a>
+        <a target="_blank" href="">Recording</a>
       </td>     
       <td></td>
       <td>February 24<br />
@@ -112,7 +112,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Interaction Design</a></span>
       </td>
       <td>March 4<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">React &alpha;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/295709/assignments/1516939">React &alpha;</a></span>
       </td>
     </tr>
     <tr>
