@@ -124,7 +124,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Heuristic Evaluation</a></span>
       </td>
       <td>March 11<br />
-        <Strong>Midterm 1</Strong>
+        <a href="#midterm-1"><strong>Midterm 1</strong></a>
       </td>
     </tr>
     <tr>
@@ -222,6 +222,35 @@ nav_order: 2
   </tbody>
 </table>
 
+
+### Midterm 1
+The first midterm exam will be held remotely <strong>Friday, March 11, 2022 from 7:15 PM until 8:45 PM</strong> via <strong>Zoom and Canvas</strong>. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
+
+<ul>
+<li>Details about the exam will be posted soon.</li>
+</ul>
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th>Day/Time<br></th>
+    <th>Location</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Main</strong></td>
+    <td>Friday, March 11, 2022 7:15 PM - 8:45 PM</td>
+    <td><a href="" target="_blank">Zoom (Remote)</a></td>
+  </tr>
+  <tr>
+    <td><strong>Alternative</strong></td>
+    <td>TBA</td>
+    <td><a href="" target="_blank">Zoom (Remote)</a></td>
+  </tr>
+</tbody>
+</table>
 
 <!-- --- -->
 
