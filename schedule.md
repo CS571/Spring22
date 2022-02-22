@@ -92,8 +92,9 @@ nav_order: 2
     </tr>
     <tr>
       <td>February 22<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React 3</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/05-Build-React-3.pdf">React 3</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/349812"><strong>Quiz</strong></a>
+        <a target="_blank" href=""><strong>Recording</strong></a>
       </td>     
       <td></td>
       <td>February 24<br />
