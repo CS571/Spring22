@@ -100,6 +100,7 @@ nav_order: 2
       <td>February 24<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/05-Build-React-4.pdf">React 4</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/350076"><strong>Quiz</strong></a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-02+24+22-10A59A19/1_qey7y8xc"><strong>Recording</strong></a>
       </td>
       <td>
       </td>
