@@ -107,7 +107,8 @@ nav_order: 2
     </tr>
     <tr>
       <td>March 1<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/06-Design-Web-Design.pdf">Web Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/06-Design-Web-Design.pdf">Web Design</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/350484"><strong>Quiz</strong></a>
       </td>
       <td></td>
       <td>March 3<br />
