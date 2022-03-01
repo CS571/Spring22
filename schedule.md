@@ -107,7 +107,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>March 1<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Web Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/06-Design-Web-Design.pdf">Web Design</a></span>
       </td>
       <td></td>
       <td>March 3<br />
