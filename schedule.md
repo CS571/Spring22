@@ -113,7 +113,7 @@ nav_order: 2
       </td>
       <td></td>
       <td>March 3<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Interaction Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/06-Design-Interaction-Design.pdf">Interaction Design</a></span>
       </td>
       <td>March 4<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/295709/assignments/1516939">React &alpha;</a></span>
