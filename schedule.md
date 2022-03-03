@@ -123,7 +123,9 @@ nav_order: 2
       <td>March 8<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Design Patterns</a></span>
       </td>
-      <td></td>
+      <td>March 9<br />
+        <a href="#midterm-1"><strong>Midterm 1 (Alt.)</strong></a>
+      </td>
       <td>March 10<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Heuristic Evaluation</a></span>
       </td>
@@ -139,15 +141,14 @@ nav_order: 2
       <td>March 17<br />
         Spring recess, no class
       </td>
-      <td>March 18<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React &beta;</a></span> 
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>March 22<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 1</a></span>
       </td>
-      <td>
+      <td>March 23<br />
+        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React &beta;</a></span> 
       </td>
       <td>March 24<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span> <br />
