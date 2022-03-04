@@ -115,6 +115,7 @@ nav_order: 2
       <td>March 3<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/06-Design-Interaction-Design.pdf">Interaction Design</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/350685"><strong>Quiz</strong></a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-03+03+22-10A58A38/1_imyk9w40"><strong>Recording</strong></a>
       </td>
       <td>March 4<br />
         <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/295709/assignments/1516939">React &alpha;</a></span>
