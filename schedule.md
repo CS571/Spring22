@@ -123,7 +123,8 @@ nav_order: 2
     </tr>
     <tr>
       <td>March 8<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Design Patterns</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Design Patterns</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/351091"><strong>Quiz</strong></a>
       </td>
       <td>March 9<br />
         <a href="#midterm-1"><strong>Midterm 1 (Alt.)</strong></a>
