@@ -123,7 +123,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>March 8<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Design Patterns</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/07-Design-Patterns.pdf">Design Patterns</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/351091"><strong>Quiz</strong></a>
       </td>
       <td>March 9<br />
@@ -151,7 +151,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 1</a></span>
       </td>
       <td>March 23<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React &beta;</a></span> 
+        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/295709/assignments/1516940">React &beta;</a></span> 
       </td>
       <td>March 24<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span> <br />
