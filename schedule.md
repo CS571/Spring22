@@ -125,6 +125,7 @@ nav_order: 2
       <td>March 8<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/07-Design-Patterns.pdf">Design Patterns</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/351091"><strong>Quiz</strong></a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-03+08+22-11A00A25/1_c91dfan6"><strong>Recording</strong></a>
       </td>
       <td>March 9<br />
         <a href="#midterm-1"><strong>Midterm 1 (Alt.)</strong></a>
