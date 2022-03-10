@@ -131,7 +131,8 @@ nav_order: 2
         <a href="#midterm-1"><strong>Midterm 1 (Alt.)</strong></a>
       </td>
       <td>March 10<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Heuristic Evaluation</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Heuristic Evaluation</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/351516"><strong>Quiz</strong></a>
       </td>
       <td>March 11<br />
         <a href="#midterm-1"><strong>Midterm 1</strong></a>
