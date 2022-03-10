@@ -235,7 +235,7 @@ nav_order: 2
 ### Midterm 1
 The first midterm exam will be held remotely on **Friday, March 11, 2022 from 7:15 PM until 8:45 PM** via **Zoom and Canvas**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
 
-- **Important:** Watch [this video](https://drive.google.com/file/d/15JVTWeWqG6pHYgau6Y4FIRv8qCxqI_7j/view?usp=sharing) about the remote exam policy. Please make sure that you have carefully read the [remote exam policy](https://docs.google.com/spreadsheets/d/1pSDO0jvW6_w-X4ocFBw50d3RcoSWAz-XADK516E41B8/edit#gid=295100550) before the exam.
+- **Important:** Watch [this video](https://drive.google.com/file/d/15JVTWeWqG6pHYgau6Y4FIRv8qCxqI_7j/view?usp=sharing) about the remote exam policy. Please make sure that you have carefully read the [remote exam policy](https://docs.google.com/document/d/1kgFJJ1lhkkR_RUuoMCsJWvHZB8X6KAsNrv173JTr-KU/edit?usp=sharing) before the exam.
 - The exam will cover all course materials prior to and including **Design Patterns (March 8)**.
 - We recommend referring to the lecture slides and [past quizzes](https://docs.google.com/document/d/1bK6LXjEPsQu6eG6GegsgCpQ3etlaScNR9m9qBXJbV-U/edit?usp=sharing) for studying the materials.
 
