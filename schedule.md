@@ -133,6 +133,7 @@ nav_order: 2
       <td>March 10<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/07-Design-Heuristic-Evaluation.pdf">Heuristic Evaluation</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/351516"><strong>Quiz</strong></a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-03+10+22-10A58A20/1_x1zoj8la"><strong>Recording</strong></a>
       </td>
       <td>March 11<br />
         <a href="#midterm-1"><strong>Midterm 1</strong></a>
