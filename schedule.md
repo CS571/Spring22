@@ -254,12 +254,12 @@ The first midterm exam will be held remotely on **Friday, March 11, 2022 from 7:
   <tr>
     <td><strong>Main</strong></td>
     <td>Friday, March 11, 2022 7:15 PM - 8:45 PM CST</td>
-    <td><a href="" target="_blank">Zoom (Remote)</a></td>
+    <td><a href="https://piazza.com/class/kyjlh3uxjvznf?cid=88" target="_blank">Zoom (Remote)</a></td>
   </tr>
   <tr>
     <td><strong>Alternative</strong></td>
     <td>Wednesday, March 9, 2022 7:15 PM - 8:45 PM CST</td>
-    <td><a href="" target="_blank">Zoom (Remote)</a></td>
+    <td><a href="https://piazza.com/class/kyjlh3uxjvznf?cid=88" target="_blank">Zoom (Remote)</a></td>
   </tr>
 </tbody>
 </table>
