@@ -171,7 +171,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Mobile Design</a></span>
       </td>
       <td>April 1<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">React Native &alpha;</a></span>
+        <span class="fs-3"></span>
       </td>
     </tr>
     <tr>
@@ -183,6 +183,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Accessible Design</a><br /></span>
       </td>
       <td>
+        <a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/295709/assignments/1528164">React Native &alpha;</a>
       </td>
     </tr>
     <tr>
