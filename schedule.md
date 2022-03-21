@@ -170,9 +170,7 @@ nav_order: 2
       <td>March 31<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Mobile Design</a></span>
       </td>
-      <td>April 1<br />
-        <span class="fs-3"></span>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>April 5<br />
@@ -183,6 +181,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Accessible Design</a><br /></span>
       </td>
       <td>
+        April 8<br />
         <a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="https://canvas.wisc.edu/courses/295709/assignments/1528164">React Native &alpha;</a>
       </td>
     </tr>
