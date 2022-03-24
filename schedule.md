@@ -159,7 +159,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/295709/assignments/1516940">React &beta;</a></span> 
       </td>
       <td>March 24<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 2</a></span> <br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/09-Build-React-Native-2.pdf">React Native 2</a></span> <br />
       </td>
       <td>
       </td>
