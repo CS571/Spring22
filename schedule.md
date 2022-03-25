@@ -161,6 +161,7 @@ nav_order: 2
       <td>March 24<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/09-Build-React-Native-2.pdf">React Native 2</a></span> <br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/352461"><strong>Quiz</strong></a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-03+24+22-10A57A39/1_hustvdnd"><strong>Recording</strong></a>
       </td>
       <td>
       </td>
