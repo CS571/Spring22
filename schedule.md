@@ -168,7 +168,8 @@ nav_order: 2
     </tr>
     <tr>
       <td>March 29<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 3</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">React Native 3</a></span> <br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/352851"><strong>Quiz</strong></a>
       </td>
       <td></td>
       <td>March 31<br />
