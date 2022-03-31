@@ -176,6 +176,7 @@ nav_order: 2
       <td>March 31<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/10-Design-Mobile-Design.pdf">Mobile Design</a></span> <br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/353107"><strong>Quiz</strong></a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-03+31+22-11A01A52/1_r89kfpj3"><strong>Recording</strong></a>
       </td>
       <td></td>
     </tr>
