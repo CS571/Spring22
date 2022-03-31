@@ -174,7 +174,7 @@ nav_order: 2
       </td>
       <td></td>
       <td>March 31<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Mobile Design</a></span> <br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/10-Design-Mobile-Design.pdf">Mobile Design</a></span> <br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/353107"><strong>Quiz</strong></a>
       </td>
       <td></td>
