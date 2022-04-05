@@ -182,7 +182,8 @@ nav_order: 2
     </tr>
     <tr>
       <td>April 5<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Prototyping</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Prototyping</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/353568"><strong>Quiz</strong></a>
       </td>
       <td></td>
       <td>April 7<br />
