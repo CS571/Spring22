@@ -184,6 +184,7 @@ nav_order: 2
       <td>April 5<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/11-Design-Prototyping.pdf">Prototyping</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/353568"><strong>Quiz</strong></a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-04+05+22-10A59A34/1_0yz7ztg2"><strong>Recording</strong></a>
       </td>
       <td></td>
       <td>April 7<br />
