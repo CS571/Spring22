@@ -205,7 +205,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span>
       </td>
       <td>April 15<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">React Native &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/295709/assignments/1533754">React Native &beta;</a></span>
       </td>
     </tr>
     <tr>
