@@ -188,7 +188,8 @@ nav_order: 2
       </td>
       <td></td>
       <td>April 7<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Accessible Design</a><br /></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Accessible Design</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/353856"><strong>Quiz</strong></a>
       </td>
       <td>
         April 8<br />
