@@ -190,6 +190,7 @@ nav_order: 2
       <td>April 7<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/11-Design-Accessible-Design.pdf">Accessible Design</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/353856"><strong>Quiz</strong></a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-04+07+22-11A01A48/1_e8d09nzf"><strong>Recording</strong></a>
       </td>
       <td>
         April 8<br />
