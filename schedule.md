@@ -246,36 +246,38 @@ nav_order: 2
 
 ### Midterm 1
 <detail>
-<summary>
-  Details
-</summary>
-The first midterm exam will be held remotely on **Friday, March 11, 2022 from 7:15 PM until 8:45 PM** via **Zoom and Canvas**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
+  <summary>
+    Details
+  </summary>
+  The first midterm exam will be held remotely on **Friday, March 11, 2022 from 7:15 PM until 8:45 PM** via **Zoom and Canvas**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
 
-- **Important:** Watch [this video](https://drive.google.com/file/d/15JVTWeWqG6pHYgau6Y4FIRv8qCxqI_7j/view?usp=sharing) about the remote exam policy. Please make sure that you have carefully read the [remote exam policy](https://docs.google.com/document/d/1kgFJJ1lhkkR_RUuoMCsJWvHZB8X6KAsNrv173JTr-KU/edit?usp=sharing) before the exam.
-- The exam will cover all course materials prior to and including **Design Patterns (March 8)**.
-- We recommend referring to the lecture slides and [past quizzes](https://docs.google.com/document/d/1bK6LXjEPsQu6eG6GegsgCpQ3etlaScNR9m9qBXJbV-U/edit?usp=sharing) for studying the materials.
+  <ul>
+  <li><strong>Important:</strong> Watch <a href="https://drive.google.com/file/d/15JVTWeWqG6pHYgau6Y4FIRv8qCxqI_7j/view?usp=sharing" target="_blank">this video</a> about the remote exam policy. Please make sure that you have carefully read the <a href="https://docs.google.com/document/d/1kgFJJ1lhkkR_RUuoMCsJWvHZB8X6KAsNrv173JTr-KU/edit?usp=sharing" target="_blank">remote exam policy</a> before the exam.</li>
+  <li>The exam will cover all course materials prior to and including <strong>Design Patterns (March 8)</strong>.</li>
+  <li>We recommend referring to the lecture slides and <a href="https://docs.google.com/document/d/1bK6LXjEPsQu6eG6GegsgCpQ3etlaScNR9m9qBXJbV-U/edit?usp=sharing" target="_blank">past quizzes</a> for studying the materials.</li>
+  </ul>
 
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th>Day/Time<br></th>
-    <th>Location</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><strong>Main</strong></td>
-    <td>Friday, March 11, 2022 7:15 PM - 8:45 PM CST</td>
-    <td><a href="https://piazza.com/class/kyjlh3uxjvznf?cid=88" target="_blank">Zoom (Remote)</a></td>
-  </tr>
-  <tr>
-    <td><strong>Alternative</strong></td>
-    <td>Wednesday, March 9, 2022 7:15 PM - 8:45 PM CST</td>
-    <td><a href="https://piazza.com/class/kyjlh3uxjvznf?cid=88" target="_blank">Zoom (Remote)</a></td>
-  </tr>
-</tbody>
-</table>
+  <table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Day/Time<br></th>
+      <th>Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Main</strong></td>
+      <td>Friday, March 11, 2022 7:15 PM - 8:45 PM CST</td>
+      <td><a href="https://piazza.com/class/kyjlh3uxjvznf?cid=88" target="_blank">Zoom (Remote)</a></td>
+    </tr>
+    <tr>
+      <td><strong>Alternative</strong></td>
+      <td>Wednesday, March 9, 2022 7:15 PM - 8:45 PM CST</td>
+      <td><a href="https://piazza.com/class/kyjlh3uxjvznf?cid=88" target="_blank">Zoom (Remote)</a></td>
+    </tr>
+  </tbody>
+  </table>
 </detail>
 
 ### Midterm 2
