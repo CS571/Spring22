@@ -245,11 +245,11 @@ nav_order: 2
 
 
 ### Midterm 1
-<detail>
+<details>
   <summary>
     Details
   </summary>
-  The first midterm exam will be held remotely on **Friday, March 11, 2022 from 7:15 PM until 8:45 PM** via **Zoom and Canvas**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
+  The first midterm exam will be held remotely on <strong>Friday, March 11, 2022 from 7:15 PM until 8:45 PM</strong> via <strong>Zoom and Canvas</strong>. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
 
   <ul>
   <li><strong>Important:</strong> Watch <a href="https://drive.google.com/file/d/15JVTWeWqG6pHYgau6Y4FIRv8qCxqI_7j/view?usp=sharing" target="_blank">this video</a> about the remote exam policy. Please make sure that you have carefully read the <a href="https://docs.google.com/document/d/1kgFJJ1lhkkR_RUuoMCsJWvHZB8X6KAsNrv173JTr-KU/edit?usp=sharing" target="_blank">remote exam policy</a> before the exam.</li>
@@ -278,7 +278,7 @@ nav_order: 2
     </tr>
   </tbody>
   </table>
-</detail>
+</details>
 
 ### Midterm 2
 The second midterm exam will be held remotely on **Friday, April 22, 2022 from 7:15 PM until 8:45 PM** via **Zoom and Canvas**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session. This is the last exam of this course; there is no final exam.
