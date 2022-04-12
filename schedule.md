@@ -219,7 +219,7 @@ nav_order: 2
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span>
       </td>
       <td>April 22<br />
-        Midterm 2
+        <a href="#midterm-2"><strong>Midterm 2</strong></a>
       </td>
     </tr>
     <tr>
@@ -230,6 +230,7 @@ nav_order: 2
       <td>April 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Designing Agents</a></span>
       </td>
+      <td></td>
     </tr>
     <tr>
       <td></td>
@@ -244,12 +245,15 @@ nav_order: 2
 
 
 ### Midterm 1
+<detail>
+<summary>
+  Details
+</summary>
 The first midterm exam will be held remotely on **Friday, March 11, 2022 from 7:15 PM until 8:45 PM** via **Zoom and Canvas**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session.
 
 - **Important:** Watch [this video](https://drive.google.com/file/d/15JVTWeWqG6pHYgau6Y4FIRv8qCxqI_7j/view?usp=sharing) about the remote exam policy. Please make sure that you have carefully read the [remote exam policy](https://docs.google.com/document/d/1kgFJJ1lhkkR_RUuoMCsJWvHZB8X6KAsNrv173JTr-KU/edit?usp=sharing) before the exam.
 - The exam will cover all course materials prior to and including **Design Patterns (March 8)**.
 - We recommend referring to the lecture slides and [past quizzes](https://docs.google.com/document/d/1bK6LXjEPsQu6eG6GegsgCpQ3etlaScNR9m9qBXJbV-U/edit?usp=sharing) for studying the materials.
-
 
 <table>
 <thead>
@@ -272,7 +276,34 @@ The first midterm exam will be held remotely on **Friday, March 11, 2022 from 7:
   </tr>
 </tbody>
 </table>
+</detail>
 
-<!-- --- -->
+### Midterm 2
+The second midterm exam will be held remotely on **Friday, April 22, 2022 from 7:15 PM until 8:45 PM** via **Zoom and Canvas**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session. This is the last exam of this course; there is no final exam.
+
+- The exam will cover all course materials from **Heuristic Evaluation (March 10)** to **Dialogflow 1 (April 19)** (inclusive).
+- We recommend referring to the lecture slides and [past quizzes](https://docs.google.com/document/d/1bK6LXjEPsQu6eG6GegsgCpQ3etlaScNR9m9qBXJbV-U/edit?usp=sharing) for studying the materials.
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th>Day/Time<br></th>
+    <th>Location</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>Main</strong></td>
+    <td>Friday, April 22, 2022 7:15 PM - 8:45 PM CST</td>
+    <td><a href="javascript:void(0)" target="_blank">Zoom (Remote)</a></td>
+  </tr>
+  <tr>
+    <td><strong>Alternative</strong></td>
+    <td>TBA</td>
+    <td><a href="javascript:void(0)" target="_blank">Zoom (Remote)</a></td>
+  </tr>
+</tbody>
+</table>
 
 🎉 🥳 🎊 Congratulations! You made it to the end of the semester!
