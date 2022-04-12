@@ -199,7 +199,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>April 12<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">VUI Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/12-Design-VUI-Design.pdf">VUI Design</a></span>
       </td>
       <td></td>
       <td>April 14<br />
