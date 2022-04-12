@@ -11,7 +11,7 @@ nav_order: 2
 
 <a class="label label-blue" >Blue</a> / <a class="label label-purple" >Purple</a> buttons link to **build** / **design** lecture slides
 
-<a class="label label-red" >Red</a> / <a class="label label-yellow">Yellow</a> links to *programming* (&alpha;) / *design* (&beta;) assignments
+<a class="label label-red" >Red</a> / <a class="label label-yellow">Yellow</a> / <a class="label label-green">Green</a> links to *programming* (&alpha;) / *design* (&beta;) / *integrate* assignments
 
 <a>**Recording**</a> links to recorded lectures (posted by 9 pm on lecture day)
 
@@ -199,11 +199,11 @@ nav_order: 2
     </tr>
     <tr>
       <td>April 12<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 1</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">VUI Design</a></span>
       </td>
       <td></td>
       <td>April 14<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experience Prototyping</a></span>
       </td>
       <td>April 15<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/295709/assignments/1533754">React Native &beta;</a></span>
@@ -211,12 +211,12 @@ nav_order: 2
     </tr>
     <tr>
       <td>April 19<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">VUI Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 1</a></span>
       </td>
       <td>
       </td>
       <td>April 21<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experience Prototyping</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span>
       </td>
       <td>April 22<br />
         Midterm 2
@@ -230,16 +230,13 @@ nav_order: 2
       <td>April 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Designing Agents</a></span>
       </td>
-      <td>April 29<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-red-200 text-grey-lt-000" href="">Dialogflow &alpha;</a></span>
-      </td>
     </tr>
     <tr>
       <td></td>
       <td></td>
       <td></td>
       <td>May 6<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="">Dialogflow &beta;</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-green-100 text-grey-dk-250" href="">Dialogflow</a></span>
       </td>    
     </tr>
   </tbody>
