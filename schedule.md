@@ -199,7 +199,7 @@ nav_order: 2
     </tr>
     <tr>
       <td>April 12<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/12-Design-VUI-Design.pdf">VUI Design</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/12-Design-VUI-Design.pdf">VUI Design</a></span><br />
         <em>No Quiz</em>
         <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-04+12+22-11A00A20/1_jyfak57d"><strong>Recording</strong></a>
       </td>
