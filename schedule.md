@@ -205,7 +205,8 @@ nav_order: 2
       </td>
       <td></td>
       <td>April 14<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experience Prototyping</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Experience Prototyping</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/354677"><strong>Quiz</strong></a>
       </td>
       <td>April 15<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/295709/assignments/1533754">React Native &beta;</a></span>
