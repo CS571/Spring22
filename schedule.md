@@ -207,6 +207,7 @@ nav_order: 2
       <td>April 14<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/12-Design-Experience-Prototyping.pdf">Experience Prototyping</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/354677"><strong>Quiz</strong></a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-04+14+22-10A59A38/1_w6f00ez8"><strong>Recording</strong></a>
       </td>
       <td>April 15<br />
         <span class="fs-3"><a target="_blank" class="btn bg-yellow-100 text-grey-dk-250" href="https://canvas.wisc.edu/courses/295709/assignments/1533754">React Native &beta;</a></span>
