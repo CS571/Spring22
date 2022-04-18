@@ -242,7 +242,7 @@ nav_order: 2
       <td></td>
       <td></td>
       <td>May 6<br />
-        <span class="fs-3"><a target="_blank" class="btn bg-green-100 text-grey-lt-000" href="">Dialogflow</a></span>
+        <span class="fs-3"><a target="_blank" class="btn bg-green-100 text-grey-lt-000" href="https://canvas.wisc.edu/courses/295709/assignments/1540448">Dialogflow</a></span>
       </td>    
     </tr>
   </tbody>
