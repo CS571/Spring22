@@ -217,7 +217,8 @@ nav_order: 2
       <td>April 19<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 1</a></span>
       </td>
-      <td>
+      <td>April 20<br />
+        <a href="#midterm-2"><strong>Midterm 2 (Alt.)</strong></a>
       </td>
       <td>April 21<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span>
@@ -287,6 +288,7 @@ nav_order: 2
 ### Midterm 2
 The second midterm exam will be held remotely on **Friday, April 22, 2022 from 7:15 PM until 8:45 PM** via **Zoom and Canvas**. All students, unless signed up for the alternative session or requested accommodations, are expected to attend the main session. This is the last exam of this course; there is no final exam.
 
+- Watch this [short video](https://drive.google.com/file/d/1ZQdmRpfAgDMKZxrnrMtG706i2BKXBTl3/view) about the [remote exam policy](https://docs.google.com/document/d/1nK4gcxSl1WMaPlMn345FCRN8xUovNhtAdpn0gqJ3Jjk/edit?usp=sharing).
 - The exam will cover all course materials from **Heuristic Evaluation (March 10)** to **Dialogflow 1 (April 19)** (inclusive).
 - We recommend referring to the lecture slides and [past quizzes](https://docs.google.com/document/d/1bK6LXjEPsQu6eG6GegsgCpQ3etlaScNR9m9qBXJbV-U/edit?usp=sharing) for studying the materials.
 
@@ -302,12 +304,12 @@ The second midterm exam will be held remotely on **Friday, April 22, 2022 from 7
   <tr>
     <td><strong>Main</strong></td>
     <td>Friday, April 22, 2022 7:15 PM - 8:45 PM CST</td>
-    <td><a href="javascript:void(0)" target="_blank">Zoom (Remote)</a></td>
+    <td><a href="https://piazza.com/class/kyjlh3uxjvznf?cid=285" target="_blank">Zoom (Remote)</a></td>
   </tr>
   <tr>
     <td><strong>Alternative</strong></td>
-    <td>TBA</td>
-    <td><a href="javascript:void(0)" target="_blank">Zoom (Remote)</a></td>
+    <td>Wednesday, April 20, 2022 7:15 PM - 8:45 PM CST</td>
+    <td><a href="https://piazza.com/class/kyjlh3uxjvznf?cid=285" target="_blank">Zoom (Remote)</a></td>
   </tr>
 </tbody>
 </table>
