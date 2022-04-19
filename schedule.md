@@ -215,7 +215,8 @@ nav_order: 2
     </tr>
     <tr>
       <td>April 19<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 1</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 1</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/355178"><strong>Quiz</strong></a>
       </td>
       <td>April 20<br />
         <a href="#midterm-2"><strong>Midterm 2 (Alt.)</strong></a>
