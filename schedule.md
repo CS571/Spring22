@@ -217,6 +217,7 @@ nav_order: 2
       <td>April 19<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="lectures/13-Build-Dialogflow-1.pdf">Dialogflow 1</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/355178"><strong>Quiz</strong></a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-04+19+22-11A01A13/1_54meyls3"><strong>Recording</strong></a>
       </td>
       <td>April 20<br />
         <a href="#midterm-2"><strong>Midterm 2 (Alt.)</strong></a>
