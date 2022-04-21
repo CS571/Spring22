@@ -223,7 +223,8 @@ nav_order: 2
         <a href="#midterm-2"><strong>Midterm 2 (Alt.)</strong></a>
       </td>
       <td>April 21<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="">Dialogflow 2</a></span><br />
+        <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/355552"><strong>Quiz</strong></a>
       </td>
       <td>April 22<br />
         <a href="#midterm-2"><strong>Midterm 2</strong></a>
