@@ -235,6 +235,7 @@ nav_order: 2
       <td>April 26<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/14-Design-Usability-Evaluation.pdf">Usability Evaluation</a></span><br />
         <a target="_blank" href="https://canvas.wisc.edu/courses/295709/quizzes/356167"><strong>Quiz</strong></a>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-04+26+22-10A54A11/1_zd7n9rus"><strong>Recording</strong></a>
       </td>
       <td></td>
       <td>April 28<br />
