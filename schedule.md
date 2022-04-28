@@ -238,8 +238,10 @@ nav_order: 2
         <a target="_blank" href="https://mediaspace.wisc.edu/media/Yuhang+Zhao-Noland+168-04+26+22-10A54A11/1_zd7n9rus"><strong>Recording</strong></a>
       </td>
       <td></td>
-      <td>April 28<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="">Designing Agents</a></span>
+      <td>April 28 (Bonus Lecture)<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/14-Design-Designing-Agents.pdf">Designing Agents</a></span><br />
+        <em>No Quiz</em>
+        <a target="_blank" href="https://mediaspace.wisc.edu/media/Designing+Agents+%28Bonus+Lecture%29/1_czzkamup"><strong>Recording</strong></a>
       </td>
       <td></td>
     </tr>
